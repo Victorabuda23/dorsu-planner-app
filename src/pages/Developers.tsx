@@ -24,8 +24,7 @@ const Developers = () => {
 
                 
 
-        </div>
-    </div>
+       
           
           <div className="flex flex-wrap justify-center">
                    
